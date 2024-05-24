@@ -1,8 +1,8 @@
 # Image Classification with Deep Learning
-Welcome to this Jupyter Notebook, where we will be deploying a deep learning model for image classification. This project utilizes a convolutional neural network (CNN) to differentiate between images of cats and dogs. Our dataset for this model is sourced from the widely used Cats and Dogs dataset available from https://www.microsoft.com/en-us/download/details.aspx?id=54765
+We will be deploying a deep learning model for image classification. This project utilizes a convolutional neural network (CNN) to differentiate between images of cats and dogs. Our dataset for this model is sourced from the widely used Cats and Dogs dataset available from https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 ## Objective
-The goal of this notebook is to demonstrate the practical application of a CNN in image classification. We aim to achieve the following:
+The goal of this project is to demonstrate the practical application of a CNN in image classification. We aim to achieve the following:
 
 - Preprocess and prepare a dataset for model training.
 - Construct and train a CNN on this dataset.
