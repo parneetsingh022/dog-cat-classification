@@ -1,6 +1,9 @@
 # Image Classification with Deep Learning
 We will be deploying a deep learning model for image classification. This project utilizes a convolutional neural network (CNN) to differentiate between images of cats and dogs. Our dataset for this model is sourced from the widely used Cats and Dogs dataset available from https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
+Interactive demo of the model at hugging face spaces:
+https://huggingface.co/spaces/parneetsingh022/cat-vs-dog
+
 ## Objective
 The goal of this project is to demonstrate the practical application of a CNN in image classification. We aim to achieve the following:
 
