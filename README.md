@@ -41,8 +41,8 @@ import torch
 from PIL import Image
 from torchvision import transforms
 
-from catdog_classifier.configuration import CustomModelConfig
-from catdog_classifier.model import CustomClassifier
+from custom_classifier.configuration import CustomModelConfig
+from custom_classifier.model import CustomClassifier
 ```
 
 Loading the model:
