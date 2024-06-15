@@ -1,0 +1,12 @@
+{
+  "config": {
+    "display_name": "Image Classification",
+    "display": true,
+    "technologies": ["python", "pytorch", "torchvision", "huggingface"],
+    "description": "An image classification Convolutional Neural Network (CNN) model distinguishing between dogs and cats.",
+    "priority": "medium",
+    "demo": "https://huggingface.co/spaces/parneetsingh022/cat-vs-dog",
+    "model": "https://huggingface.co/spaces/parneetsingh022/cat-vs-dog", 
+    "tag": ["machine-learning"]
+  }
+}
