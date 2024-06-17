@@ -6,7 +6,7 @@
     "description": "An image classification Convolutional Neural Network (CNN) model distinguishing between dogs and cats.",
     "priority": "medium",
     "demo": "https://huggingface.co/spaces/parneetsingh022/cat-vs-dog",
-    "model": "https://huggingface.co/spaces/parneetsingh022/cat-vs-dog", 
+    "model": "https://huggingface.co/parneetsingh022/dog-cat-classification", 
     "tag": "Machine Learning"
   }
 }
