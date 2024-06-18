@@ -8,5 +8,8 @@
     "demo": "https://huggingface.co/spaces/parneetsingh022/cat-vs-dog",
     "model": "https://huggingface.co/parneetsingh022/dog-cat-classification", 
     "tag": "Machine Learning"
+  },
+  "pages": {
+    "image": "https://www.purina.co.uk/sites/default/files/2020-11/Should%20I%20Get%20a%20Cat%20or%20DogTEASER.jpg",
   }
 }
